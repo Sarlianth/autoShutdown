@@ -1,0 +1,13 @@
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Debug\CWK.exe
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Debug\CWK.pdb
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\CWK.Form1.resources
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\CWK.Properties.Resources.resources
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\CWK.exe
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\CWK.pdb
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Debug\CWK.exe.manifest
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Debug\CWK.application
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\CWK.exe.manifest
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\x86\Debug\CWK.application

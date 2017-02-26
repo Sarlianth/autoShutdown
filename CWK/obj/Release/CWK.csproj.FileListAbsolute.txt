@@ -1,0 +1,28 @@
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Release\Auto Shutdown.exe.manifest
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Release\Auto Shutdown.application
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Release\Auto Shutdown.exe
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\bin\Release\Auto Shutdown.pdb
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\CWK.Form1.resources
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\CWK.Properties.Resources.resources
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\Auto Shutdown.TrustInfo.xml
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\Auto Shutdown.exe.manifest
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\Auto Shutdown.application
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\Auto Shutdown.exe
+C:\Users\Sarlianth\Desktop\C#\CWK\CWK\obj\Release\Auto Shutdown.pdb
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\Auto Shutdown.exe
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\Auto Shutdown.pdb
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\bin\Release\Auto Shutdown.exe.manifest
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\bin\Release\Auto Shutdown.application
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\bin\Release\Auto Shutdown.exe
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\bin\Release\Auto Shutdown.pdb
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\CWK.Form1.resources
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\CWK.Properties.Resources.resources
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\Auto Shutdown.TrustInfo.xml
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\Auto Shutdown.exe.manifest
+C:\Users\Sarlianth\Desktop\C#\CWK_test\CWK\obj\Release\Auto Shutdown.application
